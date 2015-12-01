@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Count Colors</string>
+    <string name="title_activity_show_copyright">Show_copyright</string>
+</resources>
